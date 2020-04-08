@@ -1,4 +1,7 @@
+remote_theme: "divlook/mediumish-theme-jekyll"
+
 # Site
+locale: "ko-KR"
 name: "divlook"
 title: "divlook"
 title_separator: "-"
@@ -63,5 +66,3 @@ adsense-data-ad-slot: ""
 lazyimages: "disabled"
 
 exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
-
-remote_theme: divlook/mediumish-theme-jekyll
