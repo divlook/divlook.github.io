@@ -6,8 +6,8 @@ name: "divlook"
 title: "divlook"
 title_separator: "-"
 description: "divlook dev note"
-logo: ''
-favicon: ''
+logo:
+favicon:
 url: "https://divlook.github.io"
 baseurl: ""
 google_analytics: 'UA-152049098-2'
